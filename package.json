@@ -2,7 +2,6 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "/",
   "dependencies": {
     "@david.kucsai/react-pdf-table": "^0.4.1",
     "@emotion/react": "^11.10.5",
@@ -34,6 +33,9 @@
     "redux-devtools-extension": "^2.13.8",
     "typewriter-effect": "^2.19.0",
     "web-vitals": "^2.1.4"
+  },
+  {
+  "homepage": "https://github.com/Amitkumarjha123/React-Ecommerce---frontend/#",
   },
   "scripts": {
     "start": "react-scripts start",
