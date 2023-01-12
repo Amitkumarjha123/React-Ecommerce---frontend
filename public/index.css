@@ -1,0 +1,8 @@
+.slide img {
+height : 450px;
+}
+
+input[type=number]::-webkit-inner-spin-button {
+   opacity: 1
+}
+
