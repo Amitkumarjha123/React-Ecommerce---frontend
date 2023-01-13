@@ -2,7 +2,6 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ecommerce-api-lvp6.onrender.com",
   "dependencies": {
     "@david.kucsai/react-pdf-table": "^0.4.1",
     "@emotion/react": "^11.10.5",
